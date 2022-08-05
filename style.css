@@ -1,0 +1,13 @@
+img{
+display: inline;
+width:110px
+}
+span{
+
+    dispaly:inline;
+    font-size:100px;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
